@@ -1,0 +1,1 @@
+void sorting(int a, int* b);
